@@ -1,6 +1,6 @@
 Name:		texlive-media4svg
 Version:	64686
-Release:	1
+Release:	2
 Summary:	Multimedia inclusion for the dvisvgm backend
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/media4svg
