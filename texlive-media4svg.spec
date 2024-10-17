@@ -3,7 +3,7 @@ Version:	64686
 Release:	2
 Summary:	Multimedia inclusion for the dvisvgm backend
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/media4svg
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/media4svg
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media4svg.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/media4svg.doc.r%{version}.tar.xz
